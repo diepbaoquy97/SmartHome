@@ -14,7 +14,8 @@ Created [Proposal](https://github.com/diepbaoquy97/SmartHome/blob/master/Proposa
 Created [Budget](https://github.com/diepbaoquy97/SmartHome/blob/master/PartsFor2SmartHome_(2).pdf)
 
 # Oct 15: Circuit design
-[Breadboard](/Breadboard.png)
+![Breadboard](/Breadboard.png)
+
 
 
 
