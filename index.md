@@ -1,9 +1,20 @@
 <html>
   <body>
-<h1> Hello, welcome to the CENG 317 smart home<h1>
+<h1> Tthe CENG 317 smart home<h1>
 
-<h1>Week 1 hardware (Sep 1)</h1>
-<body>
+SmartHome
+----------
+Sep 10,2019
 
-</body>
+Table of contents
+-----------------
+### Sep 12: Proposal 
+Created [Proposal](https://github.com/diepbaoquy97/SmartHome/blob/master/Proposal.xlsx)
+# Sep 23: Budget
+Created [Budget](https://github.com/diepbaoquy97/SmartHome/blob/master/PartsFor2SmartHome_(2).pdf)
+
+# Oct 15: Circuit design
+[Breadboard](https://github.com/diepbaoquy97/SmartHome/blob/master/Breadboard.png)
+
+
 </html>
