@@ -1,6 +1,6 @@
-<html>
-  <body>
-<h1> Tthe CENG 317 smart home<h1>
+
+  
+# The CENG 317 smart home<h1>
 
 SmartHome
 ----------
@@ -17,4 +17,4 @@ Created [Budget](https://github.com/diepbaoquy97/SmartHome/blob/master/PartsFor2
 [Breadboard](https://github.com/diepbaoquy97/SmartHome/blob/master/Breadboard.png)
 
 
-</html>
+
