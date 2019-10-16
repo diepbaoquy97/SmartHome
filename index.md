@@ -8,7 +8,11 @@ The project is Smart home control. Its functionality is to overview and control 
 
 # Table of contents
 
+# Raspberry OS
+I have loaded the raspberry OS into the SD card and mounted to raspberry pi. But it can't boot. I am trying to identify the issues
 # Week 6: Circuit diagram
+
+
 This is the fritzing file of my design [Fritzing](https://github.com/diepbaoquy97/SmartHome/blob/master/BaoQuyDiep-Latest.fzz)
 
 This is breadboard diagram
