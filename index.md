@@ -8,6 +8,11 @@ The project is Smart home control. Its functionality is to overview and control 
 
 # Table of contents
 
+# Week 6: Circuit diagram
+This is the fritzing file of my design [Fritzing](https://github.com/diepbaoquy97/SmartHome/blob/master/BaoQuyDiep-Latest.fzz)
+![Breadboard](/Images/BaoQuyDiep-Latest_bb.png)
+![PCB](/Images/BaoQuyDiep-Latest_pcb.png)
+![Schem](/Images/BaoQuyDiep-Latest_schem.png)
 
 # Week 5 Proof of purchase
 The order I have made
