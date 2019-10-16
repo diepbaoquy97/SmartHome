@@ -6,18 +6,17 @@
 The project is Smart home control. Its functionality is to overview and control the house, reading and set temperature, detect obstacle using motion sensor. It helps people manage home easily and safely.  
 
 
-
-Sep 10,2019
-
-Table of contents
------------------
+# Table of contents
 
 
-# Sep 23: Budget
+
+# Week 4: Budget
 Created [Budget](https://github.com/diepbaoquy97/SmartHome/blob/master/PartsFor2SmartHome_(2).pdf)
-Showing the critical path for project
-# Week 2 : Proposal created
-Created ![Proposal](https://github.com/diepbaoquy97/SmartHome/blob/master/Proposal.xlsx)
+
+# Week 3: Gantt Chart
+Created [GanttChart](https://github.com/diepbaoquy97/SmartHome/blob/master/Gantt.xlsx)
+# Week 2: Proposal created
+Created [Proposal](https://github.com/diepbaoquy97/SmartHome/blob/master/Proposal.xlsx)
 
 # Sep 10 : Reposistory Created
 
