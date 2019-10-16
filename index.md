@@ -11,9 +11,9 @@ The project is Smart home control. Its functionality is to overview and control 
 
 # Week 5 Proof of purchase
 The order I have made
-![Glass](/images/Glass.png)
-![Untitle](/images/Untitled.png]
-![digikey](/images/digikey.png]
+![Glass](/Images/Glass.png)
+![Untitle](/Images/Untitled.png]
+![digikey](/Images/digikey.png]
 
 
 # Week 4: Budget
