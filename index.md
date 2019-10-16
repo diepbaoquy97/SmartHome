@@ -29,6 +29,8 @@ This is the schematic
 
 ![Schem](/Images/BaoQuyDiep-Latest_schem.png)
 
+# Order parts has arrived
+ I have got all the parts from amazon and digikey and checked it by professor
 # Week 5 Proof of purchase
 The order I have made
 
