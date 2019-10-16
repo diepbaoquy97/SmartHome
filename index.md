@@ -11,7 +11,7 @@ The project is Smart home control. Its functionality is to overview and control 
 
 
 # Week 4: Budget
-Created [Budget](https://github.com/diepbaoquy97/SmartHome/blob/master/PartsFor2SmartHome_(2).pdf)
+Created ![Budget](https://github.com/diepbaoquy97/SmartHome/blob/master/PartsFor2SmartHome_(2).pdf)
 
 # Week 3: Gantt Chart
 Created [GanttChart](https://github.com/diepbaoquy97/SmartHome/blob/master/Gantt.xlsx)
