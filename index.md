@@ -2,9 +2,9 @@
   
 # The CENG 317 smart home
 # My Blog
-----------
+
 The project is Smart home control. Its functionality is to overview and control the house, reading and set temperature, detect obstacle using motion sensor. It helps people manage home easily and safely.  
-----------
+
 Sep 10,2019
 
 Table of contents
