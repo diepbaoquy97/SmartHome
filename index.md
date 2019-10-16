@@ -10,8 +10,13 @@ The project is Smart home control. Its functionality is to overview and control 
 
 # Week 6: Circuit diagram
 This is the fritzing file of my design [Fritzing](https://github.com/diepbaoquy97/SmartHome/blob/master/BaoQuyDiep-Latest.fzz)
+
+This is breadboard diagram
 ![Breadboard](/Images/BaoQuyDiep-Latest_bb.png)
+This is PCB diagram that I cut off
 ![PCB](/Images/BaoQuyDiep-Latest_pcb.png)
+
+This is the schematic
 ![Schem](/Images/BaoQuyDiep-Latest_schem.png)
 
 # Week 5 Proof of purchase
