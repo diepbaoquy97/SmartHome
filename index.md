@@ -13,7 +13,7 @@ The project is Smart home control. Its functionality is to overview and control 
 The order I have made
 ![Glass](/Images/Glass.png)
 
-![Untitle](/Images/Untitled.png]
+![Untitled](/Images/Untitled.png]
 
 ![digikey](/Images/digikey.png]
 
