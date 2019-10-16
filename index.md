@@ -1,6 +1,6 @@
 
   
-# The CENG 317 smart home<h1>
+The CENG 317 smart home<h1>
 
 SmartHome
 ----------
