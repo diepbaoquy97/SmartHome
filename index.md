@@ -11,7 +11,7 @@ The project is Smart home control. Its functionality is to overview and control 
 # week 8: Breadboarded
 My raspberry pi 4 had a problem with booting, it kept rebooting over and over again. The professor had detected the problem that there wasn't enough power to supply the raspberry. He solved the problem by plug it into USB 3.0 port ( the blue port USB) and it can boot up.
 
-This is my circuit which connect MCP9808 temperature sensor to Raspberry 
+This is my circuit which connect MCP9808 temperature sensor to Raspberry. I have solder the parts of MCP9808 into the MCP9808 holes
 ![Circuit](/Images/Circuit.jpg)
 
 Below is the temperature that the MCP9808 read
