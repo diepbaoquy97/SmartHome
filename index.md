@@ -11,10 +11,13 @@ The project is Smart home control. Its functionality is to overview and control 
 # week 9 : PCB soldered
 This week is about PCB soldering part. I got a socket and the MCP9808 temperature soldered to the PCB board.At first, by accident I soldered two pins and it connected together. Then I have to reheat it and I was success to get it seperate. Before the end of class,I checked the resistance between the VDD and Ground, there is no connection and that is a good sign. I have finished the PCB soldered milestone for this week so my current progress is on track.
 
-Also, in my budget I need to buy the Ethernet to USB cable in order to connect the raspberry to my laptop using remote control desktop 
+Also, in my budget I need to buy the Ethernet to USB cable in order to connect the raspberry to my laptop using remote control desktop. Moreover, I have ordered a sink heat for my raspberry so It will help the raspberry work smoothly. 
 
 I have mesesured the resistance between Vdd and Ground 
 ![photp](/Images/74588254_454186628551166_6252909991368327168_n.jpg)
+Here is my PCB board
+![pcb1](/Images/PCB1.jpg)
+![pcb2](/Images/PCB2.jpg)
 
  
 # week 8: Breadboarded
