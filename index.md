@@ -8,6 +8,11 @@ The project is Smart home control. Its functionality is to overview and control 
 
 # Table of contents
 
+# Week 10: PCB power up
+This week is about PCB power up. At the first time, I soldered the temperature sensor into the PCB board. So I have to send the Gerber file to prototype lab to make a new PCB board. I got the new PCB board on Thursday and did the soldering. It works fine and can read the temperature.
+Also for my buget I have got the heat sink and fan and I am going to install to my raspberry, my current buget is good and I am waiting for the socket. My current progress just catch up the plan as I scheduled.
+![PCB](/Images/PCBpower.jpg)
+![PCB1](/Images/PCBpower1.jpg)
 # week 9 : PCB soldered
 This week is about PCB soldering part. I got a socket and the MCP9808 temperature soldered to the PCB board.At first, by accident I soldered two pins and it connected together. Then I have to reheat it and I was success to get it seperate. Before the end of class,I checked the resistance between the VDD and Ground, there is no connection and that is a good sign. I have finished the PCB soldered milestone for this week so my current progress is on track.
 
