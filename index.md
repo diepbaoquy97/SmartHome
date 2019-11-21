@@ -7,7 +7,18 @@ The project is Smart home control. Its functionality is to overview and control 
 
 
 # Table of contents
-
+# Week 11: Enclosure 
+This week is about enclosure for the project. The file that I used to print the enclosure at prototype lab can find below
+[EnclosureCDR](https://github.com/diepbaoquy97/SmartHome/blob/master/BaoCorel17comple.cdr)
+My closure is a case that cover the raspberry which has my MCP9808 temperature sensor inside to measure the temperature.
+Here are some picture about the case
+![Enclosure1](/Images/Enclosure1.jpg)
+![Enclosure2](/Images/Enclosure2.jpg)
+![Enclosure3](/Images/Enclosure3.jpg)
+![Enclosure4](/Images/Enclosure4.jpg)
+![Enclosure5](/Images/Enclosure5.jpg)
+![Enclosure6](/Images/Enclosure6.jpg)
+My current progress is up to date and my budget is good for now. I got everything I need so there is nothing new to buy.
 # Week 10: PCB power up
 This week is about PCB power up. At the first time, I soldered the temperature sensor into the PCB board. So I have to send the Gerber file to prototype lab to make a new PCB board. I got the new PCB board on Thursday and did the soldering. It works fine and can read the temperature.
 Also for my buget I have got the heat sink and fan and I am going to install to my raspberry, my current buget is good and I am waiting for the socket. My current progress just catch up the plan as I scheduled.
