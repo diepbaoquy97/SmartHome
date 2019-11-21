@@ -10,10 +10,10 @@ The project is Smart home control. Its functionality is to overview and control 
 # Week 11: Enclosure 
 This week is about enclosure for the project. The file that I used to print the enclosure at prototype lab can find below
 [EnclosureCDR](https://github.com/diepbaoquy97/SmartHome/blob/master/BaoCorel17comple.cdr)
-My closure is a case that cover the raspberry which has my MCP9808 temperature sensor inside to measure the temperature.
+# My closure is a case that cover the raspberry which has my MCP9808 temperature sensor inside to measure the temperature.
 Here are some picture about the case
 ![Enclosure1](/Images/Enclosure1.jpg)
-![Enclosure2](/Images/Enclosure2.jpg)
+
 ![Enclosure3](/Images/Enclosure3.jpg)
 ![Enclosure4](/Images/Enclosure4.jpg)
 ![Enclosure5](/Images/Enclosure5.jpg)
