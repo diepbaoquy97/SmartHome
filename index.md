@@ -7,6 +7,8 @@ The project is Smart home control. Its functionality is to overview and control 
 
 
 # Table of contents
+# Week 12: Presentation
+[Powerpoint](https://github.com/diepbaoquy97/SmartHome/blob/master/SmartHome%20-%20Temperature.pptx)
 # Week 11: Enclosure 
 This week is about enclosure for the project. The file that I used to print the enclosure at prototype lab can find below
 [EnclosureCDR](https://github.com/diepbaoquy97/SmartHome/blob/master/BaoCorel17comple.cdr).
