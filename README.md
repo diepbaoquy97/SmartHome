@@ -21,5 +21,16 @@ To read the temperature from MCP9808 sensor, we use Raspberry pi 4 with a SD car
 
 I use the fritzing software to design the PCB board and send it to Humber prototype lab to make the PCB board. The fritzing file could be found [here](https://github.com/diepbaoquy97/SmartHome/blob/master/BaoQuyDiep-Latest.fzz)
 
+## Budget
 For me, my budget is approximate $100. The sensor was cheap. The most money I spend is Raspberry. Below is my budget
 ![budget](/Images/budget.png)
+
+The parts that I got later is 
+| Component      | Number |
+| ----------- | ----------- |
+| Micro HDMI cable   | 1        |
+|USB type c   | 1        |
+| USB to Ethernet adapter  | 1        |
+
+
+I also got 2 x 8 pin socket from the prototype lab
