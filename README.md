@@ -5,7 +5,7 @@
 ----------
 1. [Introduction](#introduction)
 2. [Budget](#budget)
-3. [Time Commitment](#time-committment)Time committment
+3. [Time Commitment](#time-committment)
 4. [Mechanical Assembly]
 5. [PCB/ Sodering]
 6. [Power up]
