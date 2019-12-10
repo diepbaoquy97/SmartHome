@@ -28,9 +28,7 @@ For me, my budget is approximate $100. The sensor was cheap. The most money I sp
 The parts that I got later is 
 | Component      | Number |
 | ----------- | ----------- |
-| Micro HDMI cable   | 1        |
-|USB type c   | 1        |
-| USB to Ethernet adapter  | 1        |
+
 
 
 I also got 2 x 8 pin socket from the prototype lab
