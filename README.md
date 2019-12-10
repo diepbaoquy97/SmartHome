@@ -21,6 +21,8 @@ To read the temperature from MCP9808 sensor, we use Raspberry pi 4 with a SD car
 
 I use the fritzing software to design the PCB board and send it to Humber prototype lab to make the PCB board. The fritzing file could be found [here](https://github.com/diepbaoquy97/SmartHome/blob/master/BaoQuyDiep-Latest.fzz)
 
+!(/Images/Diagram.png)
+
 ## Budget
 For me, my budget is approximate $100. The sensor was cheap. The most money I spend is Raspberry. Below is my budget
 ![budget](/Images/budget.png)
@@ -98,7 +100,11 @@ To power up the Raspberry, we need an SD card to load the OS inside it. The link
 [here](https://www.raspberrypi.org/downloads/raspbian/). We recommend to load the virsion name Raspbian Buster with desktop and recommended software because it has full functionality. 
 
 After you download the OS, leave it as zip file. Then download the software call Etcher, you can find it 
-[here](https://www.balena.io/etcher/). This software is to flash the Image OS into the SD card. After you load the OS into SD card, insert it into the raspberry.
+[here](https://www.balena.io/etcher/). This software is to flash the Image OS into the SD card. After you load the OS into SD card, insert it into the raspberry. Plug in the power supple
 
 The one time set up is easy, so just follow the step on the OS.
 #### Notice: If you use the Raspberry 4, it requires lot ofs voltage to power it on. So you should get power supply which support the high voltage. Or another way is to plug it in the USB 3.0 port, it also produces high voltage.
+
+## Production Testing
+
+This is the final testing to make sure the whole project works propely as we expect. Running the wire through the Raspberry case and connect with power supply, ethernet cable.
