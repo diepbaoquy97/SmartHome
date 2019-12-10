@@ -9,7 +9,7 @@
 4. [Mechanical Assembly]
 5. [PCB/ Sodering]
 6. [Power up]
-7.[Unit testing]
+7. [Unit testing]
 8. [Production Testing]
 
 
@@ -45,3 +45,7 @@ For this hardware project, it is easy to do and take about 5 hours to comple the
 | Ordering   | 90 minutes        |
 | PCB design   | 120 minutes        |
 | Soldering   | 60 minutes        |
+| PCB power up   | 120 minutes        |
+| Enclosure disign   | 90 minutes        |
+| Enclosure pritting   | 45 minutes        |
+
