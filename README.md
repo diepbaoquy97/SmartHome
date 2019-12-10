@@ -71,4 +71,4 @@ For the case, just be careful when you put it into the case because it is easy t
 The PBC board must be soldered in order to get connection. We use the socket and put it into the holes and solder it together. Then we just need to plug in the sensor into the socket
 [PCB2](/Images/PCB2.jpg)
 You could found a lot of tutorial about soldering online. Below is the video I found only, it is useful to help solder
-![here](https://www.youtube.com/watch?v=aP_ebVWYzSk)
+[here](https://www.youtube.com/watch?v=aP_ebVWYzSk)
