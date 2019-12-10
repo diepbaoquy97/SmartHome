@@ -55,7 +55,8 @@ In total, It takes approximately 9 hours to complete this project
 First, we need to connect the circuit from Raspberry to MCP9808 in order to read the temperature. There are 4 pin connection.
 ![Circuit](/Images/circuit.png)
 
-The enclosure for raspberry is designed by the software names Coreldraw. The coreldraw design can be found ![here](https://github.com/diepbaoquy97/SmartHome/blob/master/BaoCorel17comple.cdr)
+The enclosure for raspberry is designed by the software names Coreldraw. The coreldraw design can be found !
+[here](https://github.com/diepbaoquy97/SmartHome/blob/master/BaoCorel17comple.cdr)
 
 The closure could be either printed in prototype lab or private outsite 3D printer.
 The example images about enclosure could be found below:
