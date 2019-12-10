@@ -8,8 +8,8 @@
 3. [Time Commitment](#time-committment)
 4. [Mechanical Assembly](#mechanical-assembly)
 5. [PCB/ Sodering](#pcb-soldering)
-6. [Power up]
-7. [Unit testing]
+6. [Unit testing](#unit-testing)
+7. [Power up]
 8. [Production Testing]
 
 
@@ -67,7 +67,7 @@ The example images about enclosure could be found below:
 ![Enclosure6](/Images/Enclosure6.jpg)
 For the case, just be careful when you put it into the case because it is easy to break
 
-## PCB Sodering
+## PCB Soldering
 The PBC board must be soldered in order to get connection. We use the socket and put it into the holes and solder it together. Then we just need to plug in the sensor into the socket
 ![PCB2](/Images/PCB2.jpg)
 
@@ -77,3 +77,13 @@ You could found a lot of tutorial about soldering online. Below is the video I f
 Below is the circuit that we need to solder
 
 ![Solder](/Images/BaoQuyDiep-Latest_pcb.png)
+
+Warning: Do not solder the sensor directly to the board, we are suppose to solder the socket into the PCB. Be careful when you solder, do not solder too thick it will connect two holes together or too thin and that won't get the connection.
+
+## Unit Testing
+
+### Sensor testing
+We have to test the sensor first to see if the sensor function propely. We plug the sensor into the breadboard and use the wire to get connection between Raspberry and sensor. Using the command (sudo i2cdetect -y -1) to see if the connection establish. If it doesn't show up, it means there is no any connection between Raspberry and sensor. So in this case, we should re-check the circuit.
+![Breadboard](/Images/BaoQuyDiep-Latest_bb.png)
+
+If the sensor works properly, then we move on PCB testing.
