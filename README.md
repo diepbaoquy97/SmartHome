@@ -10,7 +10,7 @@
 5. [PCB/ Sodering](#pcb-soldering)
 6. [Unit testing](#unit-testing)
 7. [Power up](#power-up)
-8. [Production Testing]
+8. [Production Testing](#production-testing)
 
 
 ## Introduction
