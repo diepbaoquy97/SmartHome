@@ -28,8 +28,10 @@ For me, my budget is approximate $100. The sensor was cheap. The most money I sp
 The parts that I got later is 
 
 | Component      | Number |
-
 | ----------- | ----------- |
+| Micro HDMI   | 1        |
+| USB to Ethernet cable   | 1        |
+| Raspberry fan   | 1        |
 
 
 
