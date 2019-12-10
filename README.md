@@ -9,7 +9,7 @@
 4. [Mechanical Assembly](#mechanical-assembly)
 5. [PCB/ Sodering](#pcb-soldering)
 6. [Unit testing](#unit-testing)
-7. [Power up]
+7. [Power up](#power-up)
 8. [Production Testing]
 
 
@@ -87,3 +87,18 @@ We have to test the sensor first to see if the sensor function propely. We plug 
 ![Breadboard](/Images/BaoQuyDiep-Latest_bb.png)
 
 If the sensor works properly, then we move on PCB testing.
+
+### PCB testing
+Once the PCB get soldered, we have to test all the connection to see if it is propely. First, we use the multimeter to test the connection between Vdd and Ground. If there is overload resistance between them, so there is no connection and this is what we expect. Then move on check the connection between other pin.
+If there are incidents that two holes connect together, we could possibly to de-soldering but it will be hard
+
+## Power up
+
+To power up the Raspberry, we need an SD card to load the OS inside it. The link to raspbian is 
+[here](https://www.raspberrypi.org/downloads/raspbian/). We recommend to load the virsion name Raspbian Buster with desktop and recommended software because it has full functionality. 
+
+After you download the OS, leave it as zip file. Then download the software call Etcher, you can find it 
+[here](https://www.balena.io/etcher/). This software is to flash the Image OS into the SD card. After you load the OS into SD card, insert it into the raspberry.
+
+The one time set up is easy, so just follow the step on the OS.
+#### Notice: If you use the Raspberry 4, it requires lot ofs voltage to power it on. So you should get power supply which support the high voltage. Or another way is to plug it in the USB 3.0 port, it also produces high voltage.
