@@ -4,8 +4,8 @@
 ##SmartHome
 ----------
 1. [Introduction](#introduction)
-2. [Budget])(#budget)
-3. [Time Commitment](#time-commitment)
+2. [Budget](#budget)
+3. [Time Commitment](#time-committment)Time committment
 4. [Mechanical Assembly]
 5. [PCB/ Sodering]
 6. [Power up]
@@ -27,7 +27,7 @@ For me, my budget is approximate $100. The sensor was cheap. The most money I sp
 
 The parts that I got later is 
 
-| Component      | Number |
+| Part      | Number |
 | ----------- | ----------- |
 | Micro HDMI   | 1        |
 | USB to Ethernet cable   | 1        |
@@ -39,3 +39,9 @@ I also got 2 x 8 pin socket from the prototype lab
 
 ## Time committment 
 For this hardware project, it is easy to do and take about 5 hours to comple the project. We just need basic knowledge about circuit connection, soldering skill, Raspberry power up,etc. The longest time is that we have to wait for the parts we order and we also have to wait 2-3 business day for the prototype lab make our PCB board.
+
+| Task      | Time |
+| ----------- | ----------- |
+| Ordering   | 90 minutes        |
+| PCB design   | 120 minutes        |
+| Soldering   | 60 minutes        |
