@@ -26,7 +26,9 @@ For me, my budget is approximate $100. The sensor was cheap. The most money I sp
 ![budget](/Images/budget.png)
 
 The parts that I got later is 
+
 | Component      | Number |
+
 | ----------- | ----------- |
 
 
