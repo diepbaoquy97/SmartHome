@@ -107,4 +107,4 @@ The one time set up is easy, so just follow the step on the OS.
 
 ## Production Testing
 
-This is the final testing to make sure the whole project works propely as we expect. Running the wire through the Raspberry case and connect with power supply, ethernet cable.
+This is the final testing to make sure the whole project works propely as we expect. Running the wire through the Raspberry case and connect with power supply, ethernet cable. Now running the code that read the temperature and see if it can read the temperature propely by placing your hand on the sensor and then put your hand off the sensor.
