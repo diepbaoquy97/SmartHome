@@ -7,7 +7,7 @@
 2. [Budget](#budget)
 3. [Time Commitment](#time-committment)
 4. [Mechanical Assembly](#mechanical-assembly)
-5. [PCB/ Sodering]
+5. [PCB/ Sodering](#pcb-soldering)
 6. [Power up]
 7. [Unit testing]
 8. [Production Testing]
@@ -73,3 +73,6 @@ The PBC board must be soldered in order to get connection. We use the socket and
 
 You could found a lot of tutorial about soldering online. Below is the video I found only, it is useful to help solder
 [here](https://www.youtube.com/watch?v=aP_ebVWYzSk)
+
+Below is the circuit that we need to solder
+![Solder](/Images/BaoQuyDiep-Latest_pcb.png)
