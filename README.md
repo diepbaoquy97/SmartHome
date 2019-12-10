@@ -75,4 +75,5 @@ You could found a lot of tutorial about soldering online. Below is the video I f
 [here](https://www.youtube.com/watch?v=aP_ebVWYzSk)
 
 Below is the circuit that we need to solder
+
 ![Solder](/Images/BaoQuyDiep-Latest_pcb.png)
