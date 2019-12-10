@@ -55,7 +55,7 @@ In total, It takes approximately 9 hours to complete this project
 First, we need to connect the circuit from Raspberry to MCP9808 in order to read the temperature. There are 4 pin connection.
 ![Circuit](/Images/circuit.png)
 
-The enclosure for raspberry is designed by the software names Coreldraw. The coreldraw design can be found !
+The enclosure for raspberry is designed by the software names Coreldraw. The coreldraw design can be found 
 [here](https://github.com/diepbaoquy97/SmartHome/blob/master/BaoCorel17comple.cdr)
 
 The closure could be either printed in prototype lab or private outsite 3D printer.
@@ -65,3 +65,10 @@ The example images about enclosure could be found below:
 ![Enclosure4](/Images/Enclosure4.jpg)
 ![Enclosure5](/Images/Enclosure5.jpg)
 ![Enclosure6](/Images/Enclosure6.jpg)
+For the case, just be careful when you put it into the case because it is easy to break
+
+## PCB Sodering
+The PBC board must be soldered in order to get connection. We use the socket and put it into the holes and solder it together. Then we just need to plug in the sensor into the socket
+[PCB2](/Images/PCB2.jpg)
+You could found a lot of tutorial about soldering online. Below is the video I found only, it is useful to help solder
+![here](https://www.youtube.com/watch?v=aP_ebVWYzSk)
