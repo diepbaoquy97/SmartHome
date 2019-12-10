@@ -6,7 +6,7 @@
 1. [Introduction](#introduction)
 2. [Budget](#budget)
 3. [Time Commitment](#time-committment)
-4. [Mechanical Assembly]
+4. [Mechanical Assembly](#mechanical-assembly)
 5. [PCB/ Sodering]
 6. [Power up]
 7. [Unit testing]
@@ -59,8 +59,8 @@ The enclosure for raspberry is designed by the software names Coreldraw. The cor
 
 The closure could be either printed in prototype lab or private outsite 3D printer.
 The example images about enclosure could be found below:
-![Enclosure1](/Images/Enclosure1)
-![Enclosure3](/Images/Enclosure3)
-![Enclosure4](/Images/Enclosure4)
-![Enclosure5](/Images/Enclosure5)
-![Enclosure6](/Images/Enclosure6)
+![Enclosure1](/Images/Enclosure1.jpg)
+![Enclosure3](/Images/Enclosure3.jpg)
+![Enclosure4](/Images/Enclosure4.jpg)
+![Enclosure5](/Images/Enclosure5.jpg)
+![Enclosure6](/Images/Enclosure6.jpg)
