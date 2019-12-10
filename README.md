@@ -38,7 +38,7 @@ The parts that I got later is
 I also got 2 x 8 pin socket from the prototype lab
 
 ## Time committment 
-For this hardware project, it is easy to do and take about 5 hours to comple the project. We just need basic knowledge about circuit connection, soldering skill, Raspberry power up,etc. The longest time is that we have to wait for the parts we order and we also have to wait 2-3 business day for the prototype lab make our PCB board.
+For this hardware project, it is easy to do and take about 9 hours to comple the project. We just need basic knowledge about circuit connection, soldering skill, Raspberry power up,etc. The longest time is that we have to wait for the parts we order and we also have to wait 2-3 business day for the prototype lab make our PCB board.
 
 | Task      | Time |
 | ----------- | ----------- |
@@ -49,3 +49,8 @@ For this hardware project, it is easy to do and take about 5 hours to comple the
 | Enclosure disign   | 90 minutes        |
 | Enclosure pritting   | 45 minutes        |
 
+In total, It takes approximately 9 hours to complete this project
+
+## Mechanical Assembly
+First, we need to connect the circuit from Raspberry to MCP9808 in order to read the temperature. There are 4 pin connection.
+![Circuit](/Images/circuit.png)
