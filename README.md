@@ -103,8 +103,14 @@ After you download the OS, leave it as zip file. Then download the software call
 [here](https://www.balena.io/etcher/). This software is to flash the Image OS into the SD card. After you load the OS into SD card, insert it into the raspberry. Plug in the power supple
 
 The one time set up is easy, so just follow the step on the OS.
+
+After set everything up, the C file that use to read the temperature could be found 
+[here](https://github.com/diepbaoquy97/SmartHome/blob/master/MCP9808.c)
+Use the command: gcc -g -o MCP9808 MCP9808.c to complie. Then the execution file will be MCP9808.
 #### Notice: If you use the Raspberry 4, it requires lot ofs voltage to power it on. So you should get power supply which support the high voltage. Or another way is to plug it in the USB 3.0 port, it also produces high voltage.
 
 ## Production Testing
 
 This is the final testing to make sure the whole project works propely as we expect. Running the wire through the Raspberry case and connect with power supply, ethernet cable. Now running the code that read the temperature and see if it can read the temperature propely by placing your hand on the sensor and then put your hand off the sensor.
+
+This is the concludes the end of build instruction, I hope that you successfully set up the project. 
